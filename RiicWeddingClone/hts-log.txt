@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 06 Sep 2025 12:49:30 at https://www.riicweddingplanner.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.riicweddingplanner.com/ -O1 "C:\Riic-Wedding-Web\RiicWeddingClone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:50:12	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/c (from https://www.riicweddingplanner.com/)
+12:50:12	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/t (from https://www.riicweddingplanner.com/)
+12:52:14	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/media/emptystate.85a4add5.svg (from https://www.riicweddingplanner.com/)
+12:52:34	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/api/ (from https://www.riicweddingplanner.com/)
+12:52:34	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/envelope/ (from https://www.riicweddingplanner.com/)
+12:52:34	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/sitemap.xml (from https://www.riicweddingplanner.com/)
+12:52:34	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/feed.xml (from https://www.riicweddingplanner.com/)
+12:52:34	Error: 	"Bad Request" (400) at link https://www.riicweddingplanner.com/decodeURIComponent(e (from https://www.riicweddingplanner.com/)
+12:54:12	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_6c21d3ad880f448da01cd50563379235~mv2.jpg/v1/fill/w_480,h_361,fp_0.49_0.28,q_90,enc_avif,quality_auto/57593f_6c21d3ad880f448da01cd50563379235~mv2.jpg (from https://www.riicweddingplanner.com/testimonials)
+12:55:51	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_7a2eef5a0de4415e9ec08d47e0765487~mv2.jpg/v1/fill/w_134,h_81,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/57593f_7a2eef5a0de4415e9ec08d47e0765487~mv2.jpg (from https://www.riicweddingplanner.com/contact-3)
+12:58:39	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/post/sitemap.xml (from https://www.riicweddingplanner.com/post/những-khó-khăn-thường-gặp-của-cdcr-ngoại-quốc)
+12:58:39	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/post/feed.xml (from https://www.riicweddingplanner.com/post/những-khó-khăn-thường-gặp-của-cdcr-ngoại-quốc)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_4a3f7d2c77364aa4abbb77816c5013d5~mv2.png/v1/fill/w_49,h_25,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_4a3f7d2c77364aa4abbb77816c5013d5~mv2.png (from https://www.riicweddingplanner.com/post/khương-thảo-phần-1-10-năm-bên-nhau-6-năm-chiến-đấu-với-căn-bệnh-hiếm-gặp)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_097d8d5e4ef94c28987a2d8c11ef64ba~mv2.jpg/v1/fill/w_130,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_097d8d5e4ef94c28987a2d8c11ef64ba~mv2.jpg (from https://www.riicweddingplanner.com/post/khương-thảo-phần-1-10-năm-bên-nhau-6-năm-chiến-đấu-với-căn-bệnh-hiếm-gặp)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_d24f9d7a60c846fbb9ece8b3221ef4d3~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_d24f9d7a60c846fbb9ece8b3221ef4d3~mv2.jpg (from https://www.riicweddingplanner.com/post/khương-thảo-phần-1-10-năm-bên-nhau-6-năm-chiến-đấu-với-căn-bệnh-hiếm-gặp)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_684fc90e26204d4e9db9575729eba8e0~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_684fc90e26204d4e9db9575729eba8e0~mv2.jpg (from https://www.riicweddingplanner.com/post/khương-thảo-phần-1-10-năm-bên-nhau-6-năm-chiến-đấu-với-căn-bệnh-hiếm-gặp)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_e01b7c873e804744bd38a693091d8510~mv2.jpeg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_e01b7c873e804744bd38a693091d8510~mv2.jpeg (from https://www.riicweddingplanner.com/post/khương-thảo-phần-1-10-năm-bên-nhau-6-năm-chiến-đấu-với-căn-bệnh-hiếm-gặp)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_17e637badfa147cd96d2c7acf1da6b7d~mv2.jpg/v1/fill/w_147,h_110,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_17e637badfa147cd96d2c7acf1da6b7d~mv2.jpg (from https://www.riicweddingplanner.com/post/khương-thảo-phần-1-10-năm-bên-nhau-6-năm-chiến-đấu-với-căn-bệnh-hiếm-gặp)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_0bf0b6511e614e138caccfb86689d90e~mv2.jpg/v1/fill/w_147,h_225,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_0bf0b6511e614e138caccfb86689d90e~mv2.jpg (from https://www.riicweddingplanner.com/post/khương-thảo-phần-1-10-năm-bên-nhau-6-năm-chiến-đấu-với-căn-bệnh-hiếm-gặp)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_8f7a0d77178e4034ab54526cfad02d93~mv2.jpg/v1/fill/w_147,h_103,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_8f7a0d77178e4034ab54526cfad02d93~mv2.jpg (from https://www.riicweddingplanner.com/post/vài-mẫu-chuyện-về-veil-khăn-voan-cô-dâu)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_4a06db725da4435d9ee6e044b3d7022f~mv2.jpg/v1/fill/w_101,h_137,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_4a06db725da4435d9ee6e044b3d7022f~mv2.jpg (from https://www.riicweddingplanner.com/post/vài-mẫu-chuyện-về-veil-khăn-voan-cô-dâu)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_42eb291292d7432082b3177bb49db4f5~mv2.jpg/v1/fill/w_102,h_152,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_42eb291292d7432082b3177bb49db4f5~mv2.jpg (from https://www.riicweddingplanner.com/post/vài-mẫu-chuyện-về-veil-khăn-voan-cô-dâu)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_b146b7a8b74848b89f3676c2e649154f~mv2.jpg/v1/fill/w_119,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_b146b7a8b74848b89f3676c2e649154f~mv2.jpg (from https://www.riicweddingplanner.com/post/vài-mẫu-chuyện-về-veil-khăn-voan-cô-dâu)
+12:59:05	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_7c5c399f936447a1bf076821d3633db2~mv2.png/v1/fill/w_49,h_61,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_7c5c399f936447a1bf076821d3633db2~mv2.png (from https://www.riicweddingplanner.com/post/vài-mẫu-chuyện-về-veil-khăn-voan-cô-dâu)
+12:59:15	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/post/sitemap.xml (from https://www.riicweddingplanner.com/vi/post/những-khó-khăn-thường-gặp-của-cdcr-ngoại-quốc-1)
+12:59:15	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/post/feed.xml (from https://www.riicweddingplanner.com/vi/post/những-khó-khăn-thường-gặp-của-cdcr-ngoại-quốc-1)
+12:59:55	Error: 	"Forbidden" (403) at link https://static.wixstatic.com/media/57593f_05fb8eb9d11342a3a01c1aca0438c58e~mv2.png/v1/fill/w_49,h_25,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/57593f_05fb8eb9d11342a3a01c1aca0438c58e~mv2.png (from https://www.riicweddingplanner.com/vi/post/khương-thảo-phần-1-10-năm-bên-nhau-6-năm-chiến-đấu-với-căn-bệnh-hiếm-gặp-1)
+13:00:23	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/c (from https://www.riicweddingplanner.com/vi/about-us)
+13:00:23	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/t (from https://www.riicweddingplanner.com/vi/about-us)
+13:00:24	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/media/emptystate.85a4add5.svg (from https://www.riicweddingplanner.com/vi/about-us)
+13:00:24	Error: 	"Bad Request" (400) at link https://www.riicweddingplanner.com/vi/robots.txt (from https://www.riicweddingplanner.com/vi/about-us)
+13:00:24	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/sitemap.xml (from https://www.riicweddingplanner.com/vi/about-us)
+13:00:24	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/feed.xml (from https://www.riicweddingplanner.com/vi/about-us)
+13:00:24	Error: 	"Bad Request" (400) at link https://www.riicweddingplanner.com/vi/decodeURIComponent(e (from https://www.riicweddingplanner.com/vi/about-us)
+13:00:34	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/blog/categories/c (from https://www.riicweddingplanner.com/vi/blog/categories/góc-tư-vấn)
+13:00:34	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/blog/categories/t (from https://www.riicweddingplanner.com/vi/blog/categories/góc-tư-vấn)
+13:00:34	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/blog/categories/robots.txt (from https://www.riicweddingplanner.com/vi/blog/categories/góc-tư-vấn)
+13:00:34	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/blog/categories/sitemap.xml (from https://www.riicweddingplanner.com/vi/blog/categories/góc-tư-vấn)
+13:00:34	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/blog/categories/feed.xml (from https://www.riicweddingplanner.com/vi/blog/categories/góc-tư-vấn)
+13:00:34	Error: 	"Not Found" (404) at link https://www.riicweddingplanner.com/vi/blog/categories/decodeURIComponent(e (from https://www.riicweddingplanner.com/vi/blog/categories/góc-tư-vấn)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 13 seconds : 643 links scanned, 602 files written (148867771 bytes overall) [54439820 bytes received at 80891 bytes/sec], 122106320 bytes transferred using HTTP compression in 131 files, ratio 18%, 4.8 requests per connection
+(40 errors, 0 warnings, 0 messages)
